@@ -14,7 +14,7 @@ This sprint focuses on developing functions to manage and analyze a dataset of m
 
 ## 📐 Project Structure
 
-### Level 1
+### ⭐ Level 1
 
 - **Exercise 1**: Implement the `getAllDirectors()` function, which returns an array containing only the directors of the movies. Use `.map()` to extract the director field from each movie object. This function should not render the result; it should return the array.
 
@@ -28,11 +28,11 @@ This sprint focuses on developing functions to manage and analyze a dataset of m
 
 - **Exercise 6**: Implement functionality for users to view the average rating of movies within a specified genre. Begin by writing a unit test for this feature in `tests/films.spec.js`. Then, create a function that accepts a genre as input and calculates the average rating for that genre.
 
-### Level 2
+### ⭐⭐ Level 2
 
 - **Exercise 7**: Convert movie durations from the "hours and minutes" format to a single integer in minutes. For example, a movie duration of "2h 34min" should be converted to `154`.
 
-### Level 3
+### ⭐⭐⭐ Level 3
 
 - **Exercise 8**: Implement a function to identify the highest-rated movie of each year. This function should accept a year as input and return the top-rated movie for that year.
 
