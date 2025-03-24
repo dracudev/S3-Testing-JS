@@ -2,7 +2,7 @@
 
 ## 📄 Description
 
-This sprint focuses on developing functions to manage and analyze a dataset of movies, including tasks like extracting director data, calculating average ratings, and sorting movies. The project emphasizes the practice of essential JavaScript methods such as `map`, `reduce`, and `filter`, as well as creating unit tests to verify functionality.
+Developing functions to manage and analyze a dataset of movies, including tasks like extracting director data, calculating average ratings, and sorting movies. The project emphasizes the practice of essential JavaScript methods such as `map`, `reduce`, and `filter`, as well as creating unit tests to verify functionality.
 
 ### Objectives
 
